@@ -42,6 +42,4 @@ public class Livro implements Comparable<Livro>{
     public String toString() {
         return "Livro [titulo=" + titulo + ", autor=" + autor + ", genero=" + genero + ", preco=" + preco + "]";
     }
-
-
 }
